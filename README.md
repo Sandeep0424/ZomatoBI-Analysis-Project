@@ -15,7 +15,8 @@ Getting Started
 #Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/zomato-project-power-bi.git
+git clone https://github.com/Sandeep0424/ZomatoBI-Analysis-Project
+
 Open Power BI Desktop.
 
 Navigate to File > Open and select the cloned repository's folder.
