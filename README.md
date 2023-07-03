@@ -1,7 +1,7 @@
 # ZomatoBI-Analysis-Project
-#Zomato Project-Power BI
-#Description
-This project is a data visualization and analysis project using Power BI, focused on the Zomato restaurant dataset. It provides insights and interactive visualizations based on the data from Zomato, a popular online food delivery platform. The project aims to showcase the capabilities of Power BI for analyzing and presenting restaurant-related data.
+
+Description
+This project is a data visualization and analysis project using Power BI, focused on the Zomato restaurant dataset. It provides insights and interactive visualizations based on data from Zomato, a popular online food delivery platform. The project aims to showcase the capabilities of Power BI for analyzing and presenting restaurant-related data.
 
 #Features
 Interactive visualizations: The project utilizes Power BI's interactive features to present the data in a visually appealing and user-friendly manner.
